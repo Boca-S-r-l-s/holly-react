@@ -23,7 +23,7 @@ class NewsletterForm extends Component {
 						className="w-full px-4 py-3 text-sm text-gray-500 bg-white border border-gray-300 rounded-sm shadow-none"
 						type="email"
 						name="email"
-						placeholder="Your best email&hellip;"
+						placeholder="La tua miglior email"
 					/>
 				</div>
 

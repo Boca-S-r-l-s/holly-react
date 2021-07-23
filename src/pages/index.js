@@ -7,8 +7,8 @@ export default function IndexPage() {
 	return (
 		<Layout>
 			<Hero
-				title="Landing template for startups"
-				content="Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
+				title="BocaWare"
+				content="Serietà, velocità, ed esecuzione tecnica perfetta. Tutto i nostri lavori vengono svolti in metodologia Agile e il cliente può sempre avere lo stato d'arte sotto controllo. Benvenuto alla BocaWare."
 				illustration={HeroIllustration}
 			/>
 		</Layout>
